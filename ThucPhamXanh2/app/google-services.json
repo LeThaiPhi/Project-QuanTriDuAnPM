@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "102863576309",
+    "firebase_url": "https://thucphamapp-default-rtdb.firebaseio.com",
+    "project_id": "thucphamapp",
+    "storage_bucket": "thucphamapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102863576309:android:4472f7b5f0bdec2b0ab9bc",
+        "android_client_info": {
+          "package_name": "com.example.thucphamxanh2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASOZuy73LsB93EjrI9NlFUJ93SSjBYP5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
